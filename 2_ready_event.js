@@ -8,6 +8,9 @@ const client = new Discord.Client({
   ]
 });
 
+/**
+ * @see https://discord.js.org/#/docs/discord.js/stable/class/Client?scrollTo=e-ready
+ */
 client.on('ready', () => {
   console.log('The bot is ready to receive events and interact with Discord.');
 });
