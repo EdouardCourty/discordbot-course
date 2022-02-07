@@ -15,5 +15,13 @@
   "dependencies": {
     "discord.js": "^13.6.0",
     "dotenv": "^16.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdouardCourty/discordbot-course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EdouardCourty/discordbot-course/issues"
+  },
+  "homepage": "https://github.com/EdouardCourty/discordbot-course#readme"
 }

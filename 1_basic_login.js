@@ -4,7 +4,7 @@ const CLIENT_TOKEN = 'OTM5NjQ5NDYyNTg5MDg3NzQ1.Yf76wQ.dVpv9qFdyinnMpxsN0jkcpt9CI
 
 const client = new Discord.Client({
   intents: [
-    'GUILDS'
+    'GUILD_MESSAGES'
   ]
 });
 
